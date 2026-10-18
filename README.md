@@ -7,6 +7,11 @@
 <p align="center"><img src="media/ignition-arena-demo.gif" alt="Ignition: Arena gameplay" width="640"></p> -->
 
 <p align="center">
+  <img src="media/IgnitionArenaScreenshot1.png" alt="Ignition: Arena, ships trading fire in an asteroid field" width="720"><br>
+  <sub><i>Close-quarters combat in an asteroid field</i></sub>
+</p>
+
+<p align="center">
   <!-- TODO: replace with real links, or delete the ones that don't exist -->
   <a href="https://store.steampowered.com/app/3228760/Ignition_Arena/">Steam</a> ·
   <a href="https://www.youtube.com/watch?v=5j59W-2gOZ0">Trailer</a>
@@ -24,6 +29,11 @@
 - **Unique layered 2D maps and flight:** Players fight on 5 layers, moving between layers as they fly, making 3rd dimensional movement important in 2D
 - **Original art direction:** <!-- TODO: e.g. "a bold neon palette built for readability in hectic fights" -->
 
+<p align="center">
+  <img src="media/IgnitionArenaScreenshot2.png" alt="Ignition: Arena in-game HUD during a free-for-all deathmatch" width="720"><br>
+  <sub><i>A free-for-all deathmatch, with the equipment HUD, kill feed, and radar</i></sub>
+</p>
+
 ## How it works
 
 **Multiplayer networking** Server-Client architecture using Unity Cloud and Matchmaker backend. Client prediction and reconciliation aids in making networked physics ships feel responsive and have smooth movement.
@@ -31,6 +41,15 @@
 **AI opponents** State machine AI that adapts to the ship it's piloting by analyzing the optimal playstyle given a ships loadout. The state machine interacts with pathfinding and a PID controller to fly the ship.
 
 **Ship Builder** Players drag and drop ship pieces aross multiple phases to build custom ships. Ships have physics based flight reliant on their construction.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="media/ShipExample1.png" alt="Player-built ship in blue" width="100%"></td>
+    <td align="center" width="33%"><img src="media/ShipExample2.png" alt="Player-built ship in red" width="100%"></td>
+    <td align="center" width="33%"><img src="media/ShipExample3.png" alt="Player-built ship in purple" width="100%"></td>
+  </tr>
+</table>
+<p align="center"><sub><i>Three ships assembled in the ship builder from different components</i></sub></p>
 
 **Game loop** Players unlock ship components and construct ships. Then, they matchmake into a round. They PvP and are rewarded with in-game currency which they can then redeem for more ship components.
 
