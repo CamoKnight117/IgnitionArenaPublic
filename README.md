@@ -50,10 +50,10 @@
 
 - **Cam Knight:** Project lead, art director, designer, engineer
 - **Taylor Dabrowski:** producer
-- **Tayin:** engineer
-- **Josh:** artist
-- **Rachel:** artist
-- **Rebekah:** writer
+- **Tayin Wallace:** engineer
+- **Joshua Ortiz:** artist
+- **Rachel Buzarde:** artist
+- **Rebekah Knight:** writer
 
 ---
 
