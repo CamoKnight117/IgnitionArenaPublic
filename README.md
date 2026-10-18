@@ -11,11 +11,7 @@
   <sub><i>Close-quarters combat in an asteroid field</i></sub>
 </p>
 
-<p align="center">
-  <!-- TODO: replace with real links, or delete the ones that don't exist -->
-  <a href="https://store.steampowered.com/app/3228760/Ignition_Arena/">Steam</a> ·
-  <a href="https://www.youtube.com/watch?v=5j59W-2gOZ0">Trailer</a>
-</p>
+<p align="center"> <a href="https://www.youtube.com/watch?v=5j59W-2gOZ0"> <img src="https://img.youtube.com/vi/5j59W-2gOZ0/hqdefault.jpg" alt="Ignition: Arena trailer" width="480"> </a><br> <sub><i>▶ <a href="https://www.youtube.com/watch?v=5j59W-2gOZ0">Watch the trailer</a> · <a href="https://store.steampowered.com/app/3228760/Ignition_Arena/">Play free on Steam</a></i></sub> </p>
 
 > **About this repo:** *Ignition: Arena* is closed source. This repository is a public overview of the project, its features, and how its core systems work.
 
