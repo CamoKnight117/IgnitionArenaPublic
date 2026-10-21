@@ -1,4 +1,4 @@
-# 🔥 Ignition: Arena
+# Ignition: Arena
 
 **A multiplayer arena game built in Unity by indie studio Expedition Games.**
 
